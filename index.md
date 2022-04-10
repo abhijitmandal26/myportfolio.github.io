@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages
+## Abhijit Mandal
 
-You can use the [editor on GitHub](https://github.com/abhijitmandal26/myportfolio.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I am a software professional with 17+ years of experience in IT Industry with strong Architectural, Management and hands on development skills. I have a portfolio of successfully delivering IT Application Development projects. I have a great passion for designing software architecture and optimized solutions by following the latest industry standards. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I have spent a sizable amount of time in Architecting Cloud based applications in Azure cloud PaaS/ IaaS/ SaaS, CI/CD, migrating on-premise applications to Azure, experience in all azure areas like Networking (Cloud/hybrid), Compute, Storage, messaging, Azure Services, Security, CI/CD, DevOps, implementation of cloud design patterns, applying ML techniques in anomaly detection and other areas.
+
+I am a certified PMP and have 5+ years of Project Management experience in handling small to mid-size projects (>$2 million), with experience in Pre-sales, RFP, preparing business growth strategies, migration plans, creating and handling geographically located teams, monitoring utilization, productivity, costs and project management. Used Agile/Scrum and Waterfall methodologies. I have experience in managing teams with >35 resources across different geographies.
 
 ### Markdown
 
