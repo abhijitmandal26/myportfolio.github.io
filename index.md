@@ -13,7 +13,7 @@ I am a software professional with 17+ years of experience in IT Industry with st
 
 #### Projects
 
-Would like to share some of the projects that i completed, most of these are my academic projects which I completed as part of my Masters in Data Science course.
+Would like to share some of the projects that I completed, most of these are my academic projects which I completed as part of my Masters in Data Science course.
 
 1. **Breast Cancer Identification** [Link to GitHub Code Repository](https://github.com/abhijitmandal26/dsc520/tree/master/FinalProject)
 
