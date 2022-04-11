@@ -31,7 +31,7 @@ Would like to share some of the projects that I completed, most of these are my 
 6. **Upcoming Project 1** 
 7. **Upcoming Project 1** 
 
-8. **Movie Recommendation System** 
+8. **Movie Recommendation System** [Link to Github Code Repository](https://github.com/abhijitmandal26/DSC680/tree/main/Project1)
 <br/><br/>The goal of this project is to provide a recommendation system for video content providers to predict whether someone will enjoy a movie based on how much they liked or disliked other movies.
 <br/>Recommendation Systems are a type of information filtering systems as they improve the quality of search results and provides items that are more relevant to the search item or are related to the search history of the user.
 <br/>They are used to predict the rating or preference that a user would give to an item. Almost every major tech company has applied them in some form or the other. Major companies like YouTube, Amazon, Netflix use recommendation systems in social and e- commerce sites use recommendation system for its users to suggest for an individual according to their requirement more precise and accurate. These online content and service providers have a huge amount of content so the problem which arises is which data is required for whom so the problem of providing apposite content frequently. This project represents the overview and approaches of techniques generated in a recommendation system.
