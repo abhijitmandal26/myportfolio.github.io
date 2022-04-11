@@ -19,6 +19,10 @@ Would like to share some of the projects that i completed, most of these are my 
 
 - The intent of this project is to assist doctors in diagnosing breast cancer for patients, allowing physicians to spend more time on treating the disease. Using machine learning methods for diagnostic can significantly increase processing speed and on a big scale can make the diagnostic significantly cheaper.
 
+2. **Inventory Management** [Link to GitHub Code Repository](https://github.com/abhijitmandal26/dsc530)
+
+- The intent of this project is to help retail firms in effectively managing their inventory using an ML model built from historic sales data. A retail firm has many products in their inventory, and very few of them tend to sell (only about 10% sell each year) and many of the products only have a single sale in the course of a year
+
 3. **Simplifying Microsoft’s royalty ecosystem with connected data service** [Link to Project Summary](https://www.microsoft.com/insidetrack/blog/simplifying-microsofts-royalty-ecosystem-with-connected-data-service/)
 
 - This project is about RaaS (Royalties Assurance as a Service), Which is a relatively new capability on the Microsoft Royalties team. As the internal experts on the query tool, engineers are RaaS’ primary frontline users, handling queries for the rest of the royalties business to help validate their data. We have reduced that complexity through building a fully connected data system to bring it to a single canvas that is easy to interact with. With RaaS, our Royalties team was able to do just that with the help of RaaS APIs that enable system-to-system integration—including Microsoft Teams integration—and human augmented exploratory analytics.
