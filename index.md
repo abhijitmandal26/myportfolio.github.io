@@ -15,8 +15,13 @@ I am a software professional with 17+ years of experience in IT Industry with st
 
 Would like to share some of the projects that i completed, most of these are my academic projects which I completed as part of my Masters in Data Science course.
 
-1. Breast Cancer Identification [Link to GitHub Code Repository](https://github.com/abhijitmandal26/dsc520/tree/master/FinalProject)
-2. Simplifying Microsoft’s royalty ecosystem with connected data service [Link to Project Summary](https://www.microsoft.com/insidetrack/blog/simplifying-microsofts-royalty-ecosystem-with-connected-data-service/)
+1. **Breast Cancer Identification** [Link to GitHub Code Repository](https://github.com/abhijitmandal26/dsc520/tree/master/FinalProject)
+
+- The intent of this project is to assist doctors in diagnosing breast cancer for patients, allowing physicians to spend more time on treating the disease. Using machine learning methods for diagnostic can significantly increase processing speed and on a big scale can make the diagnostic significantly cheaper.
+
+3. **Simplifying Microsoft’s royalty ecosystem with connected data service** [Link to Project Summary](https://www.microsoft.com/insidetrack/blog/simplifying-microsofts-royalty-ecosystem-with-connected-data-service/)
+
+- This project is about RaaS (Royalties Assurance as a Service), Which is a relatively new capability on the Microsoft Royalties team. As the internal experts on the query tool, engineers are RaaS’ primary frontline users, handling queries for the rest of the royalties business to help validate their data. We have reduced that complexity through building a fully connected data system to bring it to a single canvas that is easy to interact with. With RaaS, our Royalties team was able to do just that with the help of RaaS APIs that enable system-to-system integration—including Microsoft Teams integration—and human augmented exploratory analytics.
 
 #### Articles and Blog Posts
 I am a casual blogger, usually post something which is really interesting and cutting edge and may help others in understanting the space better.
