@@ -3,7 +3,7 @@
 
 #### I am Abhijit Mandal
 
-![_DSC7235-2](https://user-images.githubusercontent.com/13950516/162668030-2e665945-9fd3-42b9-9abb-c9c82c89c5b9.jpeg)
+<img src="https://user-images.githubusercontent.com/13950516/162675004-c0763482-df03-46d3-ba7c-c541168e18fd.jpg" width="250" height="213" />
 
 I am a software professional with 17+ years of experience in IT Industry with strong Architectural, Management and hands on development skills. I have a portfolio of successfully delivering IT Application Development projects. I have a great passion for designing software architecture and optimized solutions by following the latest industry standards. 
 
