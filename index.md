@@ -27,6 +27,19 @@ Would like to share some of the projects that I completed, most of these are my 
 4. **Simplifying Microsoft’s royalty ecosystem with connected data service** [Link to Project Summary](https://www.microsoft.com/insidetrack/blog/simplifying-microsofts-royalty-ecosystem-with-connected-data-service/)
 <br/><br/>This project is about RaaS (Royalties Assurance as a Service), Which is a relatively new capability on the Microsoft Royalties team. As the internal experts on the query tool, engineers are RaaS’ primary frontline users, handling queries for the rest of the royalties business to help validate their data. We have reduced that complexity through building a fully connected data system to bring it to a single canvas that is easy to interact with. With RaaS, our Royalties team was able to do just that with the help of RaaS APIs that enable system-to-system integration—including Microsoft Teams integration—and human augmented exploratory analytics.
 
+5. **Upcoming Project 1** 
+6. **Upcoming Project 1** 
+7. **Upcoming Project 1** 
+
+8. **Movie Recommendation System** 
+<br/><br/>The goal of this project is to provide a recommendation system for video content providers to predict whether someone will enjoy a movie based on how much they liked or disliked other movies.
+<br/>Recommendation Systems are a type of information filtering systems as they improve the quality of search results and provides items that are more relevant to the search item or are related to the search history of the user.
+<br/>They are used to predict the rating or preference that a user would give to an item. Almost every major tech company has applied them in some form or the other. Major companies like YouTube, Amazon, Netflix use recommendation systems in social and e- commerce sites use recommendation system for its users to suggest for an individual according to their requirement more precise and accurate. These online content and service providers have a huge amount of content so the problem which arises is which data is required for whom so the problem of providing apposite content frequently. This project represents the overview and approaches of techniques generated in a recommendation system.
+
+9. **Upcoming Project 1** 
+
+10. **Upcoming Project 2** 
+
 #### Articles and Blog Posts
 I am a casual blogger, usually post something which is really interesting and cutting edge and may help others in understanting the space better.
 
