@@ -27,7 +27,10 @@ Would like to share some of the projects that I completed, most of these are my 
 4. **Simplifying Microsoft’s royalty ecosystem with connected data service** [Link to Project Summary](https://www.microsoft.com/insidetrack/blog/simplifying-microsofts-royalty-ecosystem-with-connected-data-service/)
 <br/><br/>This project is about RaaS (Royalties Assurance as a Service), Which is a relatively new capability on the Microsoft Royalties team. As the internal experts on the query tool, engineers are RaaS’ primary frontline users, handling queries for the rest of the royalties business to help validate their data. We have reduced that complexity through building a fully connected data system to bring it to a single canvas that is easy to interact with. With RaaS, our Royalties team was able to do just that with the help of RaaS APIs that enable system-to-system integration—including Microsoft Teams integration—and human augmented exploratory analytics.
 
-5. **Upcoming Project 1** 
+5. **House Price Prediction** [Link to Github Repository](https://github.com/abhijitmandal26/dsc550)
+<br/><br/>The objective of this project is to build a Machine Learning model for the prediction of housing prices based on pattern extracted from our USA_Housing dataset which contains data about USA housing sales provided by Kaggle. This dataset contains features like number of bedrooms, number of bathrooms, sqft, year built, year renovated, condition, zipcode and the target variable will be price. We will use various visualization methods to analyze the correlation of each feature as part of EDA. Descriptive analysis and quantitative analysis will use subsets of it depending on models. This project consists of two phases: - 
+  - Phase I: Focuses on data cleaning, exploration and preprocessing.
+  - Phase II : Machine Learning model building, validation and prediction.
 6. **Upcoming Project 1** 
 7. **Upcoming Project 1** 
 
