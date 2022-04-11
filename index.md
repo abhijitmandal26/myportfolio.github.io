@@ -3,6 +3,8 @@
 
 #### I am Abhijit Mandal
 
+![_DSC7235-2](https://user-images.githubusercontent.com/13950516/162668030-2e665945-9fd3-42b9-9abb-c9c82c89c5b9.jpeg)
+
 I am a software professional with 17+ years of experience in IT Industry with strong Architectural, Management and hands on development skills. I have a portfolio of successfully delivering IT Application Development projects. I have a great passion for designing software architecture and optimized solutions by following the latest industry standards. 
 
   I have spent a sizable amount of time in Architecting Cloud based applications in Azure cloud PaaS/ IaaS/ SaaS, CI/CD, migrating on-premise applications to Azure, experience in all azure areas like Networking (Cloud/hybrid), Compute, Storage, messaging, Azure Services, Security, CI/CD, DevOps, implementation of cloud design patterns, applying ML techniques in anomaly detection and other areas.
@@ -14,7 +16,7 @@ I am a software professional with 17+ years of experience in IT Industry with st
 Would like to share some of the projects that i completed, most of these are my academic projects which I completed as part of my Masters in Data Science course.
 
 1. Breast Cancer Identification [Link to GitHub Code Repository](https://github.com/abhijitmandal26/dsc520/tree/master/FinalProject)
-
+2. Simplifying Microsoft’s royalty ecosystem with connected data service [Link to Project Summary](https://www.microsoft.com/insidetrack/blog/simplifying-microsofts-royalty-ecosystem-with-connected-data-service/)
 
 #### Articles and Blog Posts
 I am a casual blogger, usually post something which is really interesting and cutting edge and may help others in understanting the space better.
@@ -26,6 +28,7 @@ I am a casual blogger, usually post something which is really interesting and cu
 2. Managing Queue Messaging using Rabbit MQ Client [Link to Article](https://dzone.com/articles/managing-queue-messages-using-rabbitmq-client)
 
  - This Article is about maintaining queues and deadletters for RabbitMQ
+
 
 
 #### ![lin](https://user-images.githubusercontent.com/13950516/162667635-e0d3d3f4-6e9f-4cbf-9308-d86507e2909d.png)[My Linkedin Profile](https://www.linkedin.com/in/abhijitmandal/)
