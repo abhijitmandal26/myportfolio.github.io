@@ -31,17 +31,21 @@ Would like to share some of the projects that I completed, most of these are my 
 <br/><br/>The objective of this project is to build a Machine Learning model for the prediction of housing prices based on pattern extracted from our USA_Housing dataset which contains data about USA housing sales provided by Kaggle. This dataset contains features like number of bedrooms, number of bathrooms, sqft, year built, year renovated, condition, zipcode and the target variable will be price. We will use various visualization methods to analyze the correlation of each feature as part of EDA. Descriptive analysis and quantitative analysis will use subsets of it depending on models. This project consists of two phases: - 
   - Phase I: Focuses on data cleaning, exploration and preprocessing.
   - Phase II : Machine Learning model building, validation and prediction.
-6. **Upcoming Project 1** 
-7. **Upcoming Project 1** 
+ 
+6. **Credit Card Fraud Detection** [Link to Github Repository](https://github.com/abhijitmandal26/dsc630)
+The goal of this project is to define a fraud montoring model to help banks to automate the Credit Card eligibility process based on customer detail provided while filling online application form & Credit history of customer.
+The decision of approving a credit card or loan is majorly dependent on the personal and financial background of the applicant. Factors like, age, gender, income, employment status, credit history and other attributes all carry weight in the approval decision. Credit analysis involves the measure to investigate the probability of a third-party to pay back the loan to the bank on time and predict its default characteristic. Analysis focus on recognizing, assessing, and reducing the financial or other risks that could lead to loss involved in the transaction.
 
-8. **Movie Recommendation System** [Link to Github Code Repository](https://github.com/abhijitmandal26/DSC680/tree/main/Project1)
+7. **Movie Recommendation System** [Link to Github Code Repository](https://github.com/abhijitmandal26/DSC680/tree/main/Project1)
 <br/><br/>The goal of this project is to provide a recommendation system for video content providers to predict whether someone will enjoy a movie based on how much they liked or disliked other movies.
 <br/>Recommendation Systems are a type of information filtering systems as they improve the quality of search results and provides items that are more relevant to the search item or are related to the search history of the user.
 <br/>They are used to predict the rating or preference that a user would give to an item. Almost every major tech company has applied them in some form or the other. Major companies like YouTube, Amazon, Netflix use recommendation systems in social and e- commerce sites use recommendation system for its users to suggest for an individual according to their requirement more precise and accurate. These online content and service providers have a huge amount of content so the problem which arises is which data is required for whom so the problem of providing apposite content frequently. This project represents the overview and approaches of techniques generated in a recommendation system.
 
-9. **Upcoming Project 1** 
+8. **Upcoming Project 1** 
 
-10. **Upcoming Project 2** 
+9. **Upcoming Project 2** 
+
+10. **Upcoming Project 3** 
 
 #### Articles and Blog Posts
 I am a casual blogger, usually post something which is really interesting and cutting edge and may help others in understanting the space better.
