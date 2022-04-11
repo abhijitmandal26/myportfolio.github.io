@@ -26,3 +26,6 @@ I am a casual blogger, usually post something which is really interesting and cu
 2. Managing Queue Messaging using Rabbit MQ Client [Link to Article](https://dzone.com/articles/managing-queue-messages-using-rabbitmq-client)
 
  - This Article is about maintaining queues and deadletters for RabbitMQ
+
+
+#### ![lin](https://user-images.githubusercontent.com/13950516/162667635-e0d3d3f4-6e9f-4cbf-9308-d86507e2909d.png)[My Linkedin Profile](https://www.linkedin.com/in/abhijitmandal/)
