@@ -61,3 +61,9 @@ I am a casual blogger, usually post something which is really interesting and cu
 
 
 #### ![lin](https://user-images.githubusercontent.com/13950516/162667635-e0d3d3f4-6e9f-4cbf-9308-d86507e2909d.png)[My Linkedin Profile](https://www.linkedin.com/in/abhijitmandal/)
+
+#### [Github Profile](https://github.com/abhijitmandal26)
+
+#### Licenses and Certifications
+<img width="731" alt="image" src="https://user-images.githubusercontent.com/13950516/162693185-3a124401-5cd6-48c0-8312-faa12557a805.png">
+
