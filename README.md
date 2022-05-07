@@ -41,7 +41,11 @@ The decision of approving a credit card or loan is majorly dependent on the pers
 <br/>Recommendation Systems are a type of information filtering systems as they improve the quality of search results and provides items that are more relevant to the search item or are related to the search history of the user.
 <br/>They are used to predict the rating or preference that a user would give to an item. Almost every major tech company has applied them in some form or the other. Major companies like YouTube, Amazon, Netflix use recommendation systems in social and e- commerce sites use recommendation system for its users to suggest for an individual according to their requirement more precise and accurate. These online content and service providers have a huge amount of content so the problem which arises is which data is required for whom so the problem of providing apposite content frequently. This project represents the overview and approaches of techniques generated in a recommendation system.
 
-8. **Upcoming Project 1** 
+8. **Sentiment Analysis** [Link to Github Code Repository](https://github.com/abhijitmandal26/DSC680/blob/main/Project2/Readme.md)
+<br/><br/>This project will focus on performing a sentiment analysis on some tweets in Twitter which will be chosen as the project progresses. The main goal of this analysis is to discover the underlying sentiment from a users tweet. 
+<br/>The opinions that are mined will be classified into two categories positive and negative. 
+<br/>An analysis will then be performed on the classified data to see what percentage of the population sample fall into each category.
+
 
 9. **Upcoming Project 2** 
 
