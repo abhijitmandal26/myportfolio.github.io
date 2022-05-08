@@ -70,4 +70,4 @@ I am a casual blogger, usually post something which is really interesting and cu
 
 #### Licenses and Certifications
 <img width="731" alt="image" src="https://user-images.githubusercontent.com/13950516/162693185-3a124401-5cd6-48c0-8312-faa12557a805.png">
-
+  
