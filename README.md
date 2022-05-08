@@ -47,9 +47,9 @@ The decision of approving a credit card or loan is majorly dependent on the pers
 <br/>An analysis will then be performed on the classified data to see what percentage of the population sample fall into each category.
 
 
-9. **Upcoming Project 2** 
+9. **Upcoming Project 1** 
 
-10. **Upcoming Project 3** 
+10. **Upcoming Project 2** 
 
 #### Articles and Blog Posts
 I am a casual blogger, usually post something which is really interesting and cutting edge and may help others in understanting the space better.
