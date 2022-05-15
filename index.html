@@ -896,7 +896,7 @@ An analysis will then be performed on the classified data to see what percentage
 									<i class="icon-globe-outline"></i>
 								</div>
 								<div class="colorlib-text">
-									<p><a href="#">abhijit.mandal26@gmail.com</a></p>
+									<p><a href="mailto:abhijit.mandal26@gmail.com">abhijit.mandal26@gmail.com</a></p>
 								</div>
 							</div>
 							<div class="colorlib-feature colorlib-feature-sm animate-box" data-animate-effect="fadeInLeft">
@@ -937,7 +937,7 @@ An analysis will then be performed on the classified data to see what percentage
 						<div class="col-md-7 col-md-push-1">
 							<div class="row">
 								<div class="col-md-10 col-md-offset-1 col-md-pull-1 animate-box" data-animate-effect="fadeInRight">
-									<form action="">
+									<form action="mailto:abhijit.mandal26@gmail.com">
 										<div class="form-group">
 											<input type="text" class="form-control" placeholder="Name">
 										</div>
@@ -984,7 +984,14 @@ An analysis will then be performed on the classified data to see what percentage
 	
 	<!-- MAIN JS -->
 	<script src="js/main.js"></script>
-
+        <script type="text/javascript">
+		sendEmail(message) {
+		    var email = message.emailId;
+		    var subject = message.subject;
+		    var emailBody = 'Hi '+message.from;
+		    document.location = "mailto:"+email+"?subject="+subject+"&body="+emailBody;
+		}
+	</script>
 	</body>
 </html>
 
