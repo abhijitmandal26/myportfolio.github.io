@@ -5,7 +5,7 @@
 
 <img src="https://user-images.githubusercontent.com/13950516/162675004-c0763482-df03-46d3-ba7c-c541168e18fd.jpg" width="250" height="213" />
 
-I am a software professional with 17+ years of experience in IT Industry with strong Architectural, Management and hands on development skills. I have a portfolio of successfully delivering IT Application Development projects. I have a great passion for designing software architecture and optimized solutions by following the latest industry standards. 
+I am a software professional with 20+ years of experience in IT Industry with strong Architectural, Management and hands on development skills. I have a portfolio of successfully delivering IT Application Development projects. I have a great passion for designing software architecture and optimized solutions by following the latest industry standards. 
 
   I have spent a sizable amount of time in Architecting Cloud based applications in Azure cloud PaaS/ IaaS/ SaaS, CI/CD, migrating on-premise applications to Azure, experience in all azure areas like Networking (Cloud/hybrid), Compute, Storage, messaging, Azure Services, Security, CI/CD, DevOps, implementation of cloud design patterns, applying ML techniques in anomaly detection and other areas.
 
